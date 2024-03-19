@@ -35,5 +35,5 @@ The research was conducted in three stages:
 - Utilize the LSUN dataset, a larger and more complex dataset containing a collection of diverse indoor and outdoor images.
 
 # Files Details (Execute files in following orders)
-1. [stage0_stratify.ipynb](stage0_stratify.ipynb): Imported the facial emotion image dataset, split it into a test/train set, and performed exploratory data analysis to gather valuable insight
+1. [stage0_stratify.ipynb](/UCM-Research-Generative-AI/stage0_stratify.ipynb): Imported the facial emotion image dataset, split it into a test/train set, and performed exploratory data analysis to gather valuable insight
 2. 
