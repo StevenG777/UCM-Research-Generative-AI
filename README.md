@@ -35,5 +35,7 @@ The research was conducted in three stages:
 - Utilize the LSUN dataset, a larger and more complex dataset containing a collection of diverse indoor and outdoor images.
 
 # Files Details (Execute files in following orders)
-1. [stage0_stratify.ipynb](stage0_stratify.ipynb): Imported the facial emotion image dataset, split it into a test/train set, and performed exploratory data analysis to gather valuable insight
-2. 
+1. [stage0_reader.ipynb](stage0_reader.ipynb): Loaded the facial emotion image dataset and combined images with different facial emotions into a CSV file
+2. [stage0_stratify.ipynb](stage0_stratify.ipynb): Split the images in CSV file into a test/train set, and performed exploratory data analysis to gather valuable insight
+3. [stage0_classifier.ipynb](stage0_classifier.ipynb): Constructed and evaluated for CNN model training on authentic images
+4. [stage1_train.ipynb](stage1_train.ipynb): Synthesized images using GAN model
