@@ -1,9 +1,11 @@
 # UCM-Research-Generative-AI
 ## Research Abstract:
 **Effect of Synthetic Data on the Robustness of Convolutional Neural Network (CNN)**
+
 *Baixi Guo, Kyle Wright, School of Natural Science, Conor Olive, School of Natural Science*
 
 **Abstract**
+
 Accurate and robust machine learning models are often used when solving complex tasks. However, these methods require large amounts of data which poses a challenge due to the scarcity of data. This study involves 3 stages, first, we synthesize data via a Generative Adversarial Network (GAN) to supplement a limited amount of data. Next, the accuracy and robustness of our CNN models are compared where one is trained on authentic data and the other trained on synthetic data. Subsequently, we investigate the optimal split between synthetic and authentic training datasets to assess the accuracy and robustness of our model utilizing synthetic data. Robustness refers to how a model’s accuracy changes with new data or perturbed data. We are introducing synthetic data into the study. So far, we have synthesized the datasets and plan to conduct experiments with the proposed methods in the future. While the work is still in progress, we anticipate that the synthetic dataset will impact the robustness of a CNN model.
 
 ## Purpose:
